@@ -36,8 +36,13 @@ img {
     width: 300px;
 }
 
-<h1>Odin Recipes Home</h1>
-<ul>
-    <li><a href="./recipes/breakfastburrito.html" target="_blank" rel="noopener noreferrer">Breakfast burrito recipe</a></li>
-    <li><a href="./recipes/berriesgranola.html" target="_blank" rel="noopener noreferrer">Berries and granola recipe</a></li>
-    <li><a href="./recipes/proteinshake.html" target="_blank" rel="noopener noreferrer">Protein Shake recipe</a></li>
+a {
+    font-style: italic;
+}
+
+ul {
+    background-color:crimson;
+}
+li {
+    background-color: beige;
+}
